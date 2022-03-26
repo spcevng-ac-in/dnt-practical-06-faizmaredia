@@ -1,0 +1,10 @@
+E:\dotNet\dotNetPractical_6\obj\Debug\dotNetPractical_6.csproj.AssemblyReference.cache
+E:\dotNet\dotNetPractical_6\obj\Debug\dotNetPractical_6.Form1.resources
+E:\dotNet\dotNetPractical_6\obj\Debug\dotNetPractical_6.Properties.Resources.resources
+E:\dotNet\dotNetPractical_6\obj\Debug\dotNetPractical_6.csproj.GenerateResource.cache
+E:\dotNet\dotNetPractical_6\obj\Debug\dotNetPractical_6.csproj.CoreCompileInputs.cache
+E:\dotNet\dotNetPractical_6\bin\Debug\dotNetPractical_6.exe.config
+E:\dotNet\dotNetPractical_6\bin\Debug\dotNetPractical_6.exe
+E:\dotNet\dotNetPractical_6\bin\Debug\dotNetPractical_6.pdb
+E:\dotNet\dotNetPractical_6\obj\Debug\dotNetPractical_6.exe
+E:\dotNet\dotNetPractical_6\obj\Debug\dotNetPractical_6.pdb
